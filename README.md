@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
 
-JavaScript Classic Tic Tac Toe Game
+Classic Tic Tac Toe JavaScript Game
 
 Checkout it's working version : [HERE](https://sidrai97.github.io/Tic-Tac-Toe)
